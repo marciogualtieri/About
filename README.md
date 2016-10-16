@@ -1,7 +1,7 @@
 #Highlights
 
 
-Welcome to [my GitHub account](https://github.com/marciogualtieri?tab=repositories). In this document you will find my most relevant projects (skill-wise) highlighted. Feel free to explore all my public repositories, but bare in mind that any projects not mentioned here are likely a work in progress and thus may be imcomplete.
+Welcome to [my GitHub account](https://github.com/marciogualtieri?tab=repositories). In this document you will find my most relevant projects (skill-wise) highlighted. Feel free to explore all my public repositories, but bare in mind that any projects not mentioned here are likely a work in progress and thus may be incomplete.
 
 ## Programming
 
