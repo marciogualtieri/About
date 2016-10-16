@@ -1,6 +1,6 @@
 # Repository's Readme
 
-Welcome to [my GitHub repositories](https://github.com/marciogualtieri?tab=repositories). Here you will find my most relevant projects (skill-wise) highlighted. Feel free to explore all my public repositories, but bare in mind that any projects not mentioned here are likely a work in progress.
+Welcome to [my GitHub repositories](https://github.com/marciogualtieri?tab=repositories). Here you will find my most relevant projects (skill-wise) highlighted. Feel free to explore all my public repositories, but bare in mind that any projects not mentioned here are likely a work in progress and thus may be imcomplete.
 
 ## Programming
 
