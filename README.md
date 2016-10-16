@@ -1,5 +1,7 @@
 # Repository's Readme
 
+## Coding
+
 I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles, which encompass [TDD](https://en.wikipedia.org/wiki/Test-driven_development). I always write my tests first and all my projects always include unit and integration tests. Some projects use [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) ([JBehave](http://jbehave.org/) for Java and [ScalaTest's FunSpec](http://www.scalatest.org/user_guide/tests_as_specifications) for Scala).
 
 Feel free to explore all public projects within my repository, but bare in mind that some are a work in progress. Here are some highlights:
@@ -15,5 +17,9 @@ Feel free to explore all public projects within my repository, but bare in mind 
 * For a sample of my Scala skills refer to [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop) or [PersonService](https://github.com/marciogualtieri/PersonService).
 
 * For a sample of my Clojure skills refer to [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
+
+## Data Science
+
+    //TODO: Databricks Data Science Portfolio
 
 
