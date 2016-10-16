@@ -19,7 +19,7 @@ I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles
 
 * For a sample of my Clojure skills refer to [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
 
-* For some katas, refer to my [Kata Repository](https://github.com/marciogualtieri/Katas). As a clean coder, I believe that katas are an important tool to keep my skills sharp (it doesn't hurt that they are fun to do too).
+* For some fun katas refer to my [Kata Repository](https://github.com/marciogualtieri/Katas). As a clean coder, I believe that katas are an important tool to keep my skills sharp.
 
 ## Data Science
 
