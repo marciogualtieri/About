@@ -6,6 +6,8 @@ Feel free to explore all public projects within my repository. Here are some hig
 
 * For a sample of my [OOD](https://en.wikipedia.org/wiki/Object-oriented_design) skills refer to [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing) within my [kata project](https://github.com/marciogualtieri/Katas).
 
+* For a sample of my algorithm design and analysis skills refer to [Java-Paintshop](https://github.com/marciogualtieri/Java-PaintShop).
+
 * For a sample of my BDD skills refer to [Processor](https://github.com/marciogualtieri/Processor) or [Summarizer](https://github.com/marciogualtieri/Summarizer).
 
 * For a sample of my Scala skills refer to [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop) or [PersonService](https://github.com/marciogualtieri/PersonService).
