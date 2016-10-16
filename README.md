@@ -1,10 +1,10 @@
 # Repository's Readme
 
+Welcome to [my GitHub](https://github.com/marciogualtieri?tab=repositories). Here you will find my most relevant projects skill-wise highlighted. Feel free to explore all public projects within my repository, but bare in mind that any projects not mentioned here are likely a work in progress.
+
 ## Programming
 
 I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles, which encompass [TDD](https://en.wikipedia.org/wiki/Test-driven_development). I always write my tests first and all my projects always include unit and integration tests. Some projects use [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) ([JBehave](http://jbehave.org/) for Java and [ScalaTest's FunSpec](http://www.scalatest.org/user_guide/tests_as_specifications) for Scala).
-
-Feel free to explore all public projects within my repository, but bare in mind that some are a work in progress. Here are some highlights:
 
 * For a sample of my [OOD](https://en.wikipedia.org/wiki/Object-oriented_design) skills refer to [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing) within my [kata project](https://github.com/marciogualtieri/Katas).
 
@@ -19,6 +19,8 @@ Feel free to explore all public projects within my repository, but bare in mind 
 * For a sample of my Clojure skills refer to [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
 
 ## Data Science
+
+I have completed a number of courses from [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/) on the subjects of statistics, data analysis and data science tools (Spark and R), which are present in my [LinkedIn profile](https://www.linkedin.com/in/marcio-gualtieri-999773b). I can't share the course project public, so I'm working on an independent project that I can showcase. Stay tuned!
 
     //TODO: Databricks Data Science Portfolio
 
