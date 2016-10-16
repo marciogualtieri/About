@@ -22,7 +22,7 @@ I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles
 
 ## Data Science
 
-I have completed a number of courses from [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/) on the subjects of statistics, data analysis and data science tools (Spark and R), which are present in my [LinkedIn profile](https://www.linkedin.com/in/marcio-gualtieri-999773b). I can't share the course project public, so I'm working on an independent project that I can showcase. Stay tuned!
+I have completed a number of courses from [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/) on the subjects of statistics, data analysis and data science tools (Spark and R), which are present in my [LinkedIn profile](https://www.linkedin.com/in/marcio-gualtieri-999773b). I can't share the course project publicly, so I'm working on an independent project that I can showcase. Stay tuned!
 
     //TODO: Databricks Data Science Portfolio
 
