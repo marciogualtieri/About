@@ -2,7 +2,7 @@
 
 I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles, which encompass [TDD](https://en.wikipedia.org/wiki/Test-driven_development). I always write my tests first and all my projects always include unit and integration tests. Some projects use [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) ([JBehave](http://jbehave.org/) for Java and [ScalaTest's FunSpec](http://www.scalatest.org/user_guide/tests_as_specifications) for Scala).
 
-Feel free to explore all public projects within my repository. Here are some highlights:
+Feel free to explore all public projects within my repository, but bare in mind that some are a work in progress. Here are some highlights:
 
 * For a sample of my [OOD](https://en.wikipedia.org/wiki/Object-oriented_design) skills refer to [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing) within my [kata project](https://github.com/marciogualtieri/Katas).
 
