@@ -10,12 +10,10 @@ Feel free to explore all public projects within my repository, but bare in mind 
 
 * For a sample of my BDD skills refer to [Processor](https://github.com/marciogualtieri/Processor) or [Summarizer](https://github.com/marciogualtieri/Summarizer).
 
+* For a sample of my Web TDD skills refer to [Slightly](https://github.com/marciogualtieri/Slightly).
+
 * For a sample of my Scala skills refer to [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop) or [PersonService](https://github.com/marciogualtieri/PersonService).
 
 * For a sample of my Clojure skills refer to [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
-
-* For a sample of my Selenium skills refer to [Slightly](https://github.com/marciogualtieri/Slightly).
-
-* For a sample of my Spring skills refer to [Counter](https://github.com/marciogualtieri/Counter).
 
 
