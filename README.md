@@ -5,21 +5,21 @@ Welcome to [my GitHub account](https://github.com/marciogualtieri?tab=repositori
 
 ## Programming
 
-I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles, which encompass [TDD](https://en.wikipedia.org/wiki/Test-driven_development). I always write my tests first and all my projects always include unit and integration tests. Some projects use [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) ([JBehave](http://jbehave.org/) for Java and [ScalaTest's FunSpec](http://www.scalatest.org/user_guide/tests_as_specifications) for Scala).
+I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles, which encompass [TDD](https://en.wikipedia.org/wiki/Test-driven_development). I always write my tests first and all my projects always include unit and integration tests. Some projects use [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) ([JBehave](http://jbehave.org/) for Java and [ScalaTest's FunSpec](http://www.scalatest.org/user_guide/tests_as_specifications) for Scala). Follow samples of my code that represent some of my coding skills:
 
-* For a sample of my [OOD](https://en.wikipedia.org/wiki/Object-oriented_design) skills refer to [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing).
+* [OOD](https://en.wikipedia.org/wiki/Object-oriented_design): [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing).
 
-* For a sample of my algorithm design and analysis skills refer to [Java-Paintshop](https://github.com/marciogualtieri/Java-PaintShop).
+* Algorithm Design and Analysis: [Java-Paintshop](https://github.com/marciogualtieri/Java-PaintShop).
 
-* For a sample of my BDD skills refer to [Processor](https://github.com/marciogualtieri/Processor) or [Summarizer](https://github.com/marciogualtieri/Summarizer).
+* BDD: [Processor](https://github.com/marciogualtieri/Processor) or [Summarizer](https://github.com/marciogualtieri/Summarizer).
 
-* For a sample of my Web TDD skills refer to [Slightly](https://github.com/marciogualtieri/Slightly).
+* Web TDD: [Slightly](https://github.com/marciogualtieri/Slightly).
 
-* For a sample of my Scala skills refer to [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop) or [PersonService](https://github.com/marciogualtieri/PersonService).
+* Scala: [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop) or [PersonService](https://github.com/marciogualtieri/PersonService).
 
-* For a sample of my Clojure skills refer to [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
+* Clojure: [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
 
-* For some fun katas refer to my [Kata Repository](https://github.com/marciogualtieri/Katas). As a clean coder, I believe that katas are an important tool to keep my skills sharp.
+* Katas: [My Kata Repository](https://github.com/marciogualtieri/Katas). Katas are a great tool to keep TDD skills sharp (it doesn't hurt they are fun to do too).
 
 ## Data Science
 
