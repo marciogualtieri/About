@@ -19,7 +19,7 @@ I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles
 
 * Clojure: [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
 
-* Katas: [My Kata Repository](https://github.com/marciogualtieri/Katas). Katas are a great tool to keep TDD skills sharp (it doesn't hurt they are fun to do too).
+* Katas: [My Kata Repository](https://github.com/marciogualtieri/Katas). Katas are a great tool to keep TDD skills sharp (it doesn't hurt that they are fun to do too).
 
 ## Data Science
 
