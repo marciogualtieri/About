@@ -1,13 +1,12 @@
-#Highlights
+#About
 
-
-Welcome to [my GitHub account](https://github.com/marciogualtieri?tab=repositories). In this document you will find my most relevant projects (skill-wise) highlighted. Feel free to explore all my public repositories, but bare in mind that any projects not mentioned here are likely a work in progress and thus may be incomplete.
+Welcome to [my GitHub](https://github.com/marciogualtieri?tab=repositories). In this document you will find my most relevant projects (skill-wise) highlighted. Feel free to explore all my public repositories, but bare in mind that any projects not mentioned here are likely a work in progress and thus may be incomplete.
 
 ## Programming
 
 I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles, which encompass [TDD](https://en.wikipedia.org/wiki/Test-driven_development). I always write my tests first and all my projects always include unit and integration tests. Some projects use [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) ([JBehave](http://jbehave.org/) for Java and [ScalaTest's FunSpec](http://www.scalatest.org/user_guide/tests_as_specifications) for Scala). Follow samples of my code that represent some of my coding skills:
 
-* [OOD](https://en.wikipedia.org/wiki/Object-oriented_design): [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing).
+* Object Oriented Design: [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing).
 
 * Algorithm Design and Analysis: [Java-Paintshop](https://github.com/marciogualtieri/Java-PaintShop).
 
@@ -19,7 +18,7 @@ I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles
 
 * Clojure: [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
 
-* Katas: [My Kata Repository](https://github.com/marciogualtieri/Katas). Katas are a great tool to keep TDD skills sharp (it doesn't hurt that they are fun to do too).
+* Practice Sessions: [Katas](https://github.com/marciogualtieri/Katas). A great tecnique to sharpen TDD skills (doesn't hurt that they are fun to do too).
 
 ## Data Science
 
