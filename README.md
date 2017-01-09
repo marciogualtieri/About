@@ -16,7 +16,7 @@ Follow samples of my work that represent some of my coding skills:
 
 * Web TDD: [Slightly](https://github.com/marciogualtieri/Slightly).
 
-* Scala: [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop), [TwitterGitHubGrid](https://github.com/marciogualtieri/TwitterGitHubGrid) and [PersonService](https://github.com/marciogualtieri/PersonService).
+* Scala: [TwitterGitHubGrid](https://github.com/marciogualtieri/TwitterGitHubGrid), [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop) and [PersonService](https://github.com/marciogualtieri/PersonService).
 
 * Clojure: [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
 
