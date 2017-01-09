@@ -28,7 +28,7 @@ I have completed a number of courses from [Coursera](https://www.coursera.org/) 
 
 Follow samples of my work that represent some of my data science skills:
 
-* Titanic Survivorship Analysis (Kaggle Challenge): You may download my R notebook directly from [Kaggle](https://www.kaggle.com/gualtieri/titanic/titanic-survivorship-analysis) or from [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/kaggle/titanic).
+* Data Analytics and Machine Learning: [Titanic Survivorship Analysis (Kaggle Challenge)](https://www.kaggle.com/gualtieri/titanic/titanic-survivorship-analysis) You will also find my R notebook on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/kaggle/titanic).
 
 
 
