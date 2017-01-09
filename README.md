@@ -24,7 +24,7 @@ Follow samples of my work that represent some of my coding skills:
 
 ## Data Science
 
-I have completed a number of courses from [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/) on the subjects of statistics and data science (using tools such as Spark, R and Python). You will find a list of my certified courses on my [LinkedIn profile](https://www.linkedin.com/in/marcio-gualtieri-999773b).
+I have completed a number of courses from [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/) on the subjects of machine learning, statistics and data analytics (using tools such as Spark, R and Python). You will find a list of my certified courses on my [LinkedIn profile](https://www.linkedin.com/in/marcio-gualtieri-999773b).
 
 Follow samples of my work that represent some of my data science skills:
 
