@@ -4,7 +4,9 @@ Welcome to [my GitHub](https://github.com/marciogualtieri?tab=repositories). In 
 
 ## Programming
 
-I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles, which include [TDD](https://en.wikipedia.org/wiki/Test-driven_development). I always write my tests first and all my projects always include unit and integration tests. Some projects use [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) ([JBehave](http://jbehave.org/) for Java and [ScalaTest's FunSpec](http://www.scalatest.org/user_guide/tests_as_specifications) for Scala). Follow samples of my code that represent some of my coding skills:
+I'm a [clean coder](http://cleancoders.com) and thus I follow clean code principles, which include [TDD](https://en.wikipedia.org/wiki/Test-driven_development). I write tests (unit and integration). I also follow [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) ([JBehave](http://jbehave.org/) for Java and [ScalaTest's FunSpec](http://www.scalatest.org/user_guide/tests_as_specifications) for Scala).
+
+Follow samples of my work that represent some of my coding skills:
 
 * Object Oriented Design: [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing).
 
@@ -22,5 +24,11 @@ I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles
 
 ## Data Science
 
-You will find my data science projects [here](https://github.com/marciogualtieri/DataScience). I have also completed a number of courses from [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/) on the subjects of statistics, data analysis and data science tools (Spark and R), which are present on my [LinkedIn profile](https://www.linkedin.com/in/marcio-gualtieri-999773b).
+I have completed a number of courses from [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/) on the subjects of statistics and data science (using tools such as Spark, R and Python). You will find a list of my certified courses on my [LinkedIn profile](https://www.linkedin.com/in/marcio-gualtieri-999773b).
+
+Follow samples of my work that represent some of my data science skills:
+
+* [Titanic Survivorship Analysis (Kaggle Challenge)](https://www.kaggle.com/gualtieri/titanic/titanic-survivorship-analysis). You may download my R notebook directly from Kaggle or from [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/kaggle/titanic).
+
+
 
