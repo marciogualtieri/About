@@ -30,7 +30,7 @@ Follow samples of my work that represent some of my data science skills:
 
 * Binary Classification: [Titanic Survivorship Analysis (Kaggle Challenge)](https://www.kaggle.com/gualtieri/titanic/titanic-survivorship-analysis) You will also find my R notebook on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/kaggle/titanic).
 
-* Multi-class Classification: [Workout: Dumbbell Lift Classification]https://marciogualtieri.github.io/DataScience/coursera/workout/scripts/workout.nb.html) You will also find my R notebook on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/coursera/workout).
+* Multi-class Classification: [Workout: Dumbbell Lift Classification](https://marciogualtieri.github.io/DataScience/coursera/workout/scripts/workout.nb.html) You will also find my R notebook on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/coursera/workout).
 
 
 
