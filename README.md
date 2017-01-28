@@ -28,7 +28,9 @@ I have completed a number of courses from [Coursera](https://www.coursera.org/) 
 
 Follow samples of my work that represent some of my data science skills:
 
-* Data Analytics and Machine Learning: [Titanic Survivorship Analysis (Kaggle Challenge)](https://www.kaggle.com/gualtieri/titanic/titanic-survivorship-analysis) You will also find my R notebook on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/kaggle/titanic).
+* Binary Classification: [Titanic Survivorship Analysis (Kaggle Challenge)](https://www.kaggle.com/gualtieri/titanic/titanic-survivorship-analysis) You will also find my R notebook on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/kaggle/titanic).
+
+* Multi-class Classification: [Workout: Dumbbell Lift Classification]https://marciogualtieri.github.io/DataScience/coursera/workout/scripts/workout.nb.html) You will also find my R notebook on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/coursera/workout).
 
 
 
