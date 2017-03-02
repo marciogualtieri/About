@@ -34,6 +34,7 @@ Follow samples of my work that represent some of my data science skills:
 
 * Interactive Plots (Leaflet, Plotly): [Fake News: A Graphical Exploration](https://marciogualtieri.github.io/DataScience/coursera/fakenews/scripts/fakenews.nb.html). You will also find my R notebook on [GitHub](https://github.com/marciogualtieri/DataScience/tree/gh-pages/coursera/fakenews).
 
+* Data Product Development & Text-Mining: [ShinySide: A Text-Mining Tool Developed with Shiny](https://github.com/marciogualtieri/shinySide). You may demo the [app hosted on shinyapps.io](https://marciogualtieri.shinyapps.io/shinyside/). A [slidify presentation](https://marciogualtieri.github.io/ShinySide/presentation/index.html) is also available.
 
 
 
