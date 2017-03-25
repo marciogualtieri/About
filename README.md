@@ -16,9 +16,11 @@ Follow samples of my work that represent some of my coding skills:
 
 * Web TDD: [Slightly](https://github.com/marciogualtieri/Slightly).
 
-* Scala: [TwitterGitHubGrid](https://github.com/marciogualtieri/TwitterGitHubGrid), [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop) and [PersonService](https://github.com/marciogualtieri/PersonService).
+* Scala: [TwitterGitHubGrid](https://github.com/marciogualtieri/TwitterGitHubGrid), [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop), [PersonService](https://github.com/marciogualtieri/PersonService) and [Reader](https://github.com/marciogualtieri/reader).
 
 * Clojure: [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
+
+* Android: [Reader](https://github.com/marciogualtieri/reader).
 
 * Practice Sessions: [Katas](https://github.com/marciogualtieri/Katas). A great tecnique to sharpen TDD skills (doesn't hurt that they are fun to do too).
 
