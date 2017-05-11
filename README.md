@@ -38,7 +38,7 @@ Follow samples of my work that represent some of my data science skills:
 
 * Data Product Development & Text-Mining: [ShinySide: A Text-Mining Tool Developed with Shiny](https://github.com/marciogualtieri/shinySide). You may demo the [app hosted on shinyapps.io](https://marciogualtieri.shinyapps.io/shinyside/). A [slidify presentation](https://marciogualtieri.github.io/ShinySide/presentation/index.html) is also available.
 
-* Basic Exploratory Analysis: [PM2.5 Particle Pollution Analysis](https://marciogualtieri.github.io/DataScience/coursera/exploratory/exploratory.nb.html). You will also find my R notebooks on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/coursera/exploratory).
+* Basic Exploratory Analysis: [PM 2.5 Particle Pollution Analysis](https://marciogualtieri.github.io/DataScience/coursera/exploratory/exploratory.html). You will also find my R notebooks on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/coursera/exploratory).
 
 * Basic Inferential Analysis: [Tooth Growth Analysis](https://marciogualtieri.github.io/DataScience/coursera/statistics/inferentialanalysis.nb.html) & [CLT Simulation](https://marciogualtieri.github.io/DataScience/coursera/statistics/simulation.nb.html). You will also find my R notebooks on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/coursera/statistics).
 
