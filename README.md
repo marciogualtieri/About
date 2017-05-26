@@ -40,6 +40,8 @@ Follow samples of my work that represent some of my data science skills:
 
 * Basic Data Cleaning: [Wearable Computing Analysis](https://github.com/marciogualtieri/DataScience/blob/master/coursera/wearable). You will also find my R notebook on [GitHub](https://github.com/marciogualtieri/DataScience/blob/master/coursera/wearable/CodeBook.Rmd).
 
+* Basic Deduplication: [Storm Data Analysis](https://marciogualtieri.github.io/DataScience/coursera/storm/storm.html). You will also find my R notebook on [GitHub](https://github.com/marciogualtieri/DataScience/blob/master/coursera/storm/storm.Rmd).
+
 * Basic Exploratory Analysis: [PM 2.5 Particle Pollution Analysis](https://marciogualtieri.github.io/DataScience/coursera/exploratory/exploratory.html). You will also find my R notebooks on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/coursera/exploratory).
 
 * Basic Inferential Analysis: [Tooth Growth Analysis](https://marciogualtieri.github.io/DataScience/coursera/statistics/inferentialanalysis.nb.html) & [CLT Simulation](https://marciogualtieri.github.io/DataScience/coursera/statistics/simulation.nb.html). You will also find my R notebooks on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/coursera/statistics).
