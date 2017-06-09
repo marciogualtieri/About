@@ -30,7 +30,7 @@ I have completed a number of courses from [Coursera](https://www.coursera.org/) 
 
 Follow samples of my work that represent some of my data science skills:
 
-* Spark/Scala, Text-Mining & Exploratory Data Analysis: [SwiftRKey (Databricks Notebook)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6584459985790753/2009039178873245/7247885662141524/latest.html)
+* Spark/Scala, Text-Mining & Exploratory Data Analysis: [SwiftRKey: A Keyboard Typing Prediction App (Databricks Notebook)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6584459985790753/2009039178873245/7247885662141524/latest.html)
 
 * Binary Classification (Machine Learning): [Titanic Survivorship Analysis (Kaggle Challenge)](https://www.kaggle.com/gualtieri/titanic/titanic-survivorship-analysis). You will also find my R notebook on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/kaggle/titanic).
 
