@@ -32,6 +32,8 @@ Follow samples of my work that represent some of my data science skills:
 
 * Spark/Scala, Text-Mining & Exploratory Data Analysis: [SwiftRKey: A Keyboard Typing Prediction App (Databricks Notebook)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6584459985790753/2009039178873245/7247885662141524/latest.html).
 
+* Text-mining, Exploratory Data Analysis, Data Product Development: [SwiftRKey: A Keyboard Typing Prediction App Written in R](https://github.com/marciogualtieri/SwiftRKey)
+
 * Binary Classification (Machine Learning): [Titanic Survivorship Analysis (Kaggle Challenge)](https://www.kaggle.com/gualtieri/titanic/titanic-survivorship-analysis). You will also find my R notebook on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/kaggle/titanic).
 
 * Multi-class Classification (Machine Learning): [Workout: Dumbbell Lift Classification](https://marciogualtieri.github.io/DataScience/coursera/workout/scripts/workout.nb.html). You will also find my R notebook on [GitHub](https://github.com/marciogualtieri/DataScience/tree/gh-pages/coursera/workout).
