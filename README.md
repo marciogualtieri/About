@@ -6,7 +6,7 @@ Welcome to [my GitHub](https://github.com/marciogualtieri?tab=repositories). In 
 
 I'm a [clean coder](http://cleancoders.com) and thus I follow clean code principles, which include [TDD](https://en.wikipedia.org/wiki/Test-driven_development): I write tests first (unit and integration). I also follow [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) ([JBehave](http://jbehave.org/) for Java and [ScalaTest's FunSpec](http://www.scalatest.org/user_guide/tests_as_specifications) for Scala).
 
-I have completed [Coursera's Functional Programming with Scala Specialization](https://www.coursera.org/account/accomplishments/specialization/H85A8DT3LHDB) in full.
+I have completed [Coursera's Functional Programming in Scala Specialization](https://www.coursera.org/account/accomplishments/specialization/H85A8DT3LHDB) in full.
 
 Follow samples of my work that represent some of my coding skills:
 
@@ -28,7 +28,7 @@ Follow samples of my work that represent some of my coding skills:
 
 ## Data Science
 
-I have completed a number of courses from [Coursera](https://www.coursera.org/) and [EdX](https://www.edx.org/) on the subjects of machine learning, statistics and data analytics (using tools such as Spark, R and Python). You will find a list of my certified courses on my [LinkedIn profile](https://www.linkedin.com/in/marcio-gualtieri-999773b). Among my accomplishments are [Coursera/Johns Hopkins' Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/SKBCZ6YMG6BX), as well as [Coursera's Functional Programming with Scala Specialization](https://www.coursera.org/account/accomplishments/specialization/H85A8DT3LHDB) (which includes a Spark/Scala course).
+I have completed a number of courses from [Coursera](https://www.coursera.org/) and [EdX](https://www.edx.org/) on the subjects of machine learning, statistics and data analytics (using tools such as Spark, R and Python). You will find a list of my certified courses on my [LinkedIn profile](https://www.linkedin.com/in/marcio-gualtieri-999773b). Among my accomplishments are [Coursera/Johns Hopkins' Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/SKBCZ6YMG6BX), as well as [Coursera's Functional Programming in Scala Specialization](https://www.coursera.org/account/accomplishments/specialization/H85A8DT3LHDB) (which includes a Spark/Scala course).
 
 Follow samples of my work that represent some of my data science skills:
 
