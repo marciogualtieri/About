@@ -62,7 +62,7 @@ Follow some highlights of my certified training:
 
 * [Coursera's Functional Programming in Scala Specialization](https://www.coursera.org/account/accomplishments/specialization/H85A8DT3LHDB) (includes a Spark/Scala course and a capstone project).
 
-* [Ruby on Rails: An Introduction](https://www.coursera.org/account/accomplishments/verify/D3SRRGS8LU3X).
+* [Coursera's Ruby on Rails: An Introduction](https://www.coursera.org/account/accomplishments/verify/D3SRRGS8LU3X).
 
 
 
