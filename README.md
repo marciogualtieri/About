@@ -22,7 +22,7 @@ Follow samples of my work that represent some of my coding skills:
 
 * Android: [Reader](https://github.com/marciogualtieri/reader).
 
-* Ruby on Rails: [RecipeFinder](https://github.com/marciogualtieri/recipefinder)
+* Ruby on Rails: [RecipeFinder](https://github.com/marciogualtieri/recipefinder).
 
 * Practice Sessions: [Katas](https://github.com/marciogualtieri/Katas). A great tecnique to sharpen TDD skills (doesn't hurt that they are fun to do too).
 
@@ -58,9 +58,9 @@ I have completed a number of courses from [Coursera](https://www.coursera.org/) 
 
 Follow some highlights of my certified training:
 
-* [Coursera/Johns Hopkins' Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/SKBCZ6YMG6BX) (10 courses, includes a capstone project)
+* [Coursera/Johns Hopkins' Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/SKBCZ6YMG6BX) (10 courses, includes a capstone project).
 
-* [Coursera's Functional Programming in Scala Specialization](https://www.coursera.org/account/accomplishments/specialization/H85A8DT3LHDB) (includes a Spark/Scala course and a capstone project)
+* [Coursera's Functional Programming in Scala Specialization](https://www.coursera.org/account/accomplishments/specialization/H85A8DT3LHDB) (includes a Spark/Scala course and a capstone project).
 
 * [Ruby on Rails: An Introduction](https://www.coursera.org/account/accomplishments/verify/D3SRRGS8LU3X).
 
