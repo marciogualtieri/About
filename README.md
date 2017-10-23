@@ -22,7 +22,7 @@ Follow samples of my work that represent some of my coding skills:
 
 * Android: [Reader](https://github.com/marciogualtieri/reader).
 
-* Ruby on Rails: [RecipeFinder](https://github.com/marciogualtieri/recipefinder).
+* Ruby on Rails: [RecipeFinder](https://github.com/marciogualtieri/recipefinder). You may [demo the app](http://recipefinder90.herokuapp.com), which has been deployed to [Heroku](www.heroku.com).
 
 * Practice Sessions: [Katas](https://github.com/marciogualtieri/Katas). A great tecnique to sharpen TDD skills (doesn't hurt that they are fun to do too).
 
