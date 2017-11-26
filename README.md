@@ -64,6 +64,7 @@ Follow some highlights of my certified training:
 
 * [Coursera's Ruby on Rails: An Introduction](https://www.coursera.org/account/accomplishments/verify/D3SRRGS8LU3X).
 * [Coursera's Rails with Active Record and Action Pack](https://www.coursera.org/account/accomplishments/verify/VAXASGNKHEQ6).
+* [Coursera's Ruby on Rails Web Services and Integration with MongoDB](https://www.coursera.org/account/accomplishments/verify/2FP5Q7VFHDEU).
 
 
 
