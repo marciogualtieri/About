@@ -66,5 +66,8 @@ Follow some highlights of my certified training:
 * [Coursera's Rails with Active Record and Action Pack](https://www.coursera.org/account/accomplishments/verify/VAXASGNKHEQ6).
 * [Coursera's Ruby on Rails Web Services and Integration with MongoDB](https://www.coursera.org/account/accomplishments/verify/2FP5Q7VFHDEU).
 
+* [Coursera's Single Page Web Applications with AngularJS](https://www.coursera.org/account/accomplishments/verify/VTFFKHJ3U934).
+* [Coursera's HTML, CSS, and Javascript for Web Developers [including Responsive Design and Bootstrap]](https://www.coursera.org/account/accomplishments/verify/ZYF47AQBBB84).
+
 
 
