@@ -24,9 +24,9 @@ Follow samples of my work that represent some of my coding skills:
 
 * Ruby on Rails: [RecipeFinder](https://github.com/marciogualtieri/recipefinder). You may [demo the app](http://recipefinder90.herokuapp.com), which has been deployed to [Heroku](www.heroku.com).
 
-* Python/Django REST Framework: [Risk Model Builder](https://github.com/marciogualtieri/risk_model_builder).
+* Python/Django REST Framework: [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder/risk_model_api).
 
-* Javascript/Vue.js/Webpack: [Risk Model Builder](https://github.com/marciogualtieri/risk_model_builder).
+* Javascript/Vue.js/Webpack: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder/risk_model_ui).
 
 * Practice Sessions: [Katas](https://github.com/marciogualtieri/Katas). A great tecnique to sharpen TDD skills (doesn't hurt that they are fun to do too).
 
