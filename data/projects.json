@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Risk Model Builder API",
+        "description": "A Python/Django REST Framework API",
+        "source": "https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/",
+        "deployment": "https://yyb8o4lyj9.execute-api.eu-west-1.amazonaws.com/production/risks/",
+        "tags": ["Python", "Django", "REST", "API", "AWS"]
+    },
+    {
+        "name": "Risk Model Builder UI",
+        "description": "A Javascript/Vue.js/CSS/Bootstrap Single Page Web Application",
+        "source": "https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_ui/",
+        "deployment": "https://marciogualtieri.github.io/risk_model_builder/risk_model_ui/demo/",
+        "tags": ["Javascript", "Vue.js", "CSS", "Bootstrap",  "Single Page Web Application"]
+    },
+    {
+        "name": "Android Reader",
+        "description": "A Scala/Android App",
+        "source": "https://github.com/marciogualtieri/reader",
+        "deployment": null,
+        "tags": ["Scala", "Android"]
+    }
+]
