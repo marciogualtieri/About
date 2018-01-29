@@ -24,7 +24,7 @@ Follow samples of my work that represent some of my coding skills:
 
 * Ruby on Rails: [RecipeFinder](https://github.com/marciogualtieri/recipefinder). You may [demo the app](http://recipefinder90.herokuapp.com), which has been deployed to [Heroku](www.heroku.com).
 
-* Python/Django REST Framework: [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/).
+* Python: [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/) Django REST Framework, [Tetris](https://github.com/marciogualtieri/tetris) (Text-Mode).
 
 * Javascript/Vue.js/Webpack: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_ui/).
 
