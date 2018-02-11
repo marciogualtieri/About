@@ -18,7 +18,7 @@ Follow samples of my work that represent some of my coding skills:
 
 * Back-end: [Analytics Service](https://github.com/marciogualtieri/analytics), [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/) (Django REST Framework).
 
-* Front-end: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_ui/), [RecipeFinder](https://github.com/marciogualtieri/recipefinder). You may [demo the app](http://recipefinder90.herokuapp.com).
+* Front-end: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_ui/), [Recipe Finder UI](https://github.com/marciogualtieri/recipefinder).
 
 * Scala: [Analytics Service](https://github.com/marciogualtieri/analytics), [TwitterGitHubGrid](https://github.com/marciogualtieri/TwitterGitHubGrid), [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop), [PersonService](https://github.com/marciogualtieri/PersonService) and [Reader](https://github.com/marciogualtieri/reader).
 
@@ -26,7 +26,7 @@ Follow samples of my work that represent some of my coding skills:
 
 * Android: [Reader](https://github.com/marciogualtieri/reader).
 
-* Ruby on Rails: [RecipeFinder](https://github.com/marciogualtieri/recipefinder). You may [demo the app](http://recipefinder90.herokuapp.com), which has been deployed to [Heroku](www.heroku.com).
+* Ruby on Rails: [Recipe Finder](https://github.com/marciogualtieri/recipefinder). You may [demo the app](http://recipefinder90.herokuapp.com), which has been deployed to [Heroku](www.heroku.com).
 
 * Python: [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/) (Django REST Framework), [Tetris](https://github.com/marciogualtieri/tetris) (Text-Mode) and [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing/Python) (Object-Oriented Design).
 
