@@ -16,7 +16,11 @@ Follow samples of my work that represent some of my coding skills:
 
 * Web TDD: [Slightly](https://github.com/marciogualtieri/Slightly).
 
-* Scala: [TwitterGitHubGrid](https://github.com/marciogualtieri/TwitterGitHubGrid), [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop), [PersonService](https://github.com/marciogualtieri/PersonService) and [Reader](https://github.com/marciogualtieri/reader).
+* Back-end: [Analytics Service](https://github.com/marciogualtieri/analytics), [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/) (Django REST Framework).
+
+* Front-end: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_ui/), [RecipeFinder](https://github.com/marciogualtieri/recipefinder). You may [demo the app](http://recipefinder90.herokuapp.com).
+
+* Scala: [Analytics Service](https://github.com/marciogualtieri/analytics), [TwitterGitHubGrid](https://github.com/marciogualtieri/TwitterGitHubGrid), [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop), [PersonService](https://github.com/marciogualtieri/PersonService) and [Reader](https://github.com/marciogualtieri/reader).
 
 * Clojure: [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
 
