@@ -30,7 +30,7 @@ Follow samples of my work that represent some of my coding skills:
 
 * Python: [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/) (Django REST Framework), [Tetris](https://github.com/marciogualtieri/tetris) (Text-Mode) and [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing/Python) (Object-Oriented Design).
 
-* Javascript/Vue.js/Webpack: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_ui/).
+* Javascript: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_ui/) (Vue.js/Webpack).
 
 * Practice Sessions: [Katas](https://github.com/marciogualtieri/Katas). A great tecnique to sharpen TDD skills (doesn't hurt that they are fun to do too).
 
