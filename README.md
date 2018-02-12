@@ -16,15 +16,15 @@ Follow samples of my work that represent some of my coding skills:
 
 * Web TDD: [Slightly](https://github.com/marciogualtieri/Slightly).
 
-* Back-end: [Analytics Service](https://github.com/marciogualtieri/analytics) (Scala Play Framework), [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/) (Python Django REST Framework).
+* Back-end: [Analytics Service](https://github.com/marciogualtieri/analytics) (Scala Play Framework/Slick/AKKA), [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/) (Python Django REST Framework).
 
 * Front-end: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_ui/) (Javascript Vue.js), [Recipe Finder UI](https://github.com/marciogualtieri/recipefinder) (Ruby on Rails).
 
-* Scala: [Analytics Service](https://github.com/marciogualtieri/analytics) (Play Framework/Slick/AKKA), [TwitterGitHubGrid](https://github.com/marciogualtieri/TwitterGitHubGrid), [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop), [PersonService](https://github.com/marciogualtieri/PersonService) and [Reader](https://github.com/marciogualtieri/reader) (Android).
+* Scala: [Analytics Service](https://github.com/marciogualtieri/analytics) (Play Framework/Slick/AKKA), [TwitterGitHubGrid](https://github.com/marciogualtieri/TwitterGitHubGrid), [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop), [PersonService](https://github.com/marciogualtieri/PersonService) (Play Framework/Slick) and [Reader](https://github.com/marciogualtieri/reader) (Android).
 
 * Clojure: [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
 
-* Android: [Reader](https://github.com/marciogualtieri/reader).
+* Android: [Reader](https://github.com/marciogualtieri/reader) (Scala).
 
 * Ruby on Rails: [Recipe Finder](https://github.com/marciogualtieri/recipefinder). You may [demo the app](http://recipefinder90.herokuapp.com), which has been deployed to [Heroku](www.heroku.com).
 
