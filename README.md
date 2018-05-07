@@ -8,13 +8,13 @@ I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles
 
 Follow samples of my work that represent some of my coding skills:
 
-* Object Oriented Design: [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing/Java).
+* Object Oriented Design: [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing/Java) (Java).
 
-* Algorithm Design and Analysis: [Java-Paintshop](https://github.com/marciogualtieri/Java-PaintShop).
+* Algorithm Design and Analysis: [Java-Paintshop](https://github.com/marciogualtieri/Java-PaintShop) (Java).
 
-* BDD: [Processor](https://github.com/marciogualtieri/Processor) or [Summarizer](https://github.com/marciogualtieri/Summarizer).
+* BDD: [Processor](https://github.com/marciogualtieri/Processor) or [Summarizer](https://github.com/marciogualtieri/Summarizer) (Java).
 
-* Web TDD: [Slightly](https://github.com/marciogualtieri/Slightly).
+* Web TDD: [Slightly](https://github.com/marciogualtieri/Slightly) (Java).
 
 * Back-end: [Analytics Service](https://github.com/marciogualtieri/analytics) (Scala Play Framework/Slick/AKKA), [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/) (Python Django REST Framework).
 
