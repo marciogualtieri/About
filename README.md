@@ -37,7 +37,9 @@ Follow samples of my work that represent some of my coding skills:
 ## Data Engineering
 
 * [Data Ingestion](https://github.com/marciogualtieri/DataEngineering/tree/master/DataIngestion): IoT Simulator that generates JSON data and publishes it to a Kafka topic.
+
 * [Data Transformation](https://github.com/marciogualtieri/DataEngineering/tree/master/DataTransformation): Spark Streaming job that consumes data from a Kafka topic and persists it to HBase.
+
 * [Data Analysis](https://github.com/marciogualtieri/DataEngineering/tree/master/DataAnalysis): Database scripts that build an Impala table on top of a HBase table and perform a few queries.
 
 ## Data Science
