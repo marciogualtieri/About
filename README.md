@@ -16,7 +16,7 @@ Follow samples of my work that represent some of my coding skills:
 
 * Web TDD: [Slightly](https://github.com/marciogualtieri/Slightly) (Java).
 
-* Back-end: [Analytics Service](https://github.com/marciogualtieri/analytics) (Scala Play Framework/Slick/AKKA), [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/) (Python Django REST Framework).
+* Back-end: [Analytics Service REST API](https://github.com/marciogualtieri/analytics) (Scala Play Framework/Slick/AKKA), [Risk Model Builder REST API](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/) (Python Django REST Framework), (Company Service REST API)[https://github.com/marciogualtieri/CompanyService] (Java/Spring Boot).
 
 * Front-end: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_ui/) (Javascript Vue.js), [Recipe Finder UI](https://github.com/marciogualtieri/recipefinder) (Ruby on Rails).
 
