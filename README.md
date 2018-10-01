@@ -28,9 +28,9 @@ Follow samples of my work that represent some of my coding skills:
 
 * Ruby on Rails: [Recipe Finder](https://github.com/marciogualtieri/recipefinder). You may [demo the app](http://recipefinder90.herokuapp.com), which has been deployed to [Heroku](www.heroku.com).
 
-* Python: [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/) (Django REST Framework), [Tetris](https://github.com/marciogualtieri/tetris) (Text-Mode) and [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing/Python) (Object-Oriented Design), [Poor Man's Twitter](https://github.com/marciogualtieri/PoorManSTwitter) (Python Django REST Framework), [Magic Squares Generator](https://github.com/marciogualtieri/MagicSquares), [Dropbox Web Client](https://github.com/marciogualtieri/DropBoxWebClient) (Django Templates/Dropbox API).
+* Python: [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder) (Django REST Framework), [Tetris](https://github.com/marciogualtieri/tetris) (Text-Mode) and [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing/Python) (Object-Oriented Design), [Poor Man's Twitter](https://github.com/marciogualtieri/PoorManSTwitter) (Python Django REST Framework), [Magic Squares Generator](https://github.com/marciogualtieri/MagicSquares), [Dropbox Web Client](https://github.com/marciogualtieri/DropBoxWebClient) (Django Templates/Dropbox API).
 
-* Javascript: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_ui/) (Vue.js/Webpack).
+* Javascript: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder) (Vue.js/Webpack), [Poor Man's Twitter UI](https://github.com/marciogualtieri/PoorManSTwitter).
 
 * Practice Sessions: [Katas](https://github.com/marciogualtieri/Katas). A great tecnique to sharpen TDD skills (doesn't hurt that they are fun to do too).
 
