@@ -22,6 +22,8 @@ Follow samples of my work that represent some of my coding skills:
 
 * Scala: [Analytics Service](https://github.com/marciogualtieri/analytics) (Play Framework/Slick/AKKA), [TwitterGitHubGrid](https://github.com/marciogualtieri/TwitterGitHubGrid), [Scala-Paintshop](https://github.com/marciogualtieri/Scala-PaintShop), [PersonService](https://github.com/marciogualtieri/PersonService) (Play Framework/Slick) and [Reader](https://github.com/marciogualtieri/reader) (Android).
 
+* Java: [Company Service REST API](https://github.com/marciogualtieri/CompanyService) (Java/Spring Boot), [Slightly](https://github.com/marciogualtieri/Slightly) (Web Template Engine), [Paintshop](https://github.com/marciogualtieri/Java-PaintShop) (Algorithm Design and Analysis), [Summarizer](https://github.com/marciogualtieri/Summarizer).
+
 * Clojure: [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
 
 * Android: [Reader](https://github.com/marciogualtieri/reader) (Scala).
