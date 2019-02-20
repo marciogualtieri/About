@@ -8,14 +8,6 @@ I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles
 
 Follow samples of my work that represent some of my coding skills:
 
-* Object Oriented Design: [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing/Java) (Java).
-
-* Algorithm Design and Analysis: [Java-Paintshop](https://github.com/marciogualtieri/Java-PaintShop) (Java).
-
-* BDD: [Processor](https://github.com/marciogualtieri/Processor) or [Summarizer](https://github.com/marciogualtieri/Summarizer) (Java).
-
-* Web TDD: [Slightly](https://github.com/marciogualtieri/Slightly) (Java).
-
 * Back-end: [Analytics Service REST API](https://github.com/marciogualtieri/analytics) (Scala Play Framework/Slick/AKKA), [Risk Model Builder REST API](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_api/) (Python Django REST Framework), [Company Service REST API](https://github.com/marciogualtieri/CompanyService) (Java/Spring Boot), [Poor Man's Twitter](https://github.com/marciogualtieri/PoorManSTwitter) (Python Django REST Framework), [AWS EC2 Instance Provisioning API](https://github.com/marciogualtieri/provisionapi) (Play Framework/AWS SDK).
 
 * Front-end: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder/blob/master/risk_model_ui/) (Javascript Vue.js), [Recipe Finder UI](https://github.com/marciogualtieri/recipefinder) (Ruby on Rails), [Poor Man's Twitter](https://github.com/marciogualtieri/PoorManSTwitter) (Javascript Vue.JS).
@@ -37,6 +29,14 @@ Follow samples of my work that represent some of my coding skills:
 * Go: [Blockchain](https://github.com/marciogualtieri/blockchain) (Zalliqa's Multi-signature consensus algorithm implementation).
 
 * Practice Sessions: [Katas](https://github.com/marciogualtieri/Katas). A great tecnique to sharpen TDD skills (doesn't hurt that they are fun to do too).
+
+* Object Oriented Design: [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing/Java) (Java).
+
+* Algorithm Design and Analysis: [Java-Paintshop](https://github.com/marciogualtieri/Java-PaintShop) (Java).
+
+* BDD: [Processor](https://github.com/marciogualtieri/Processor) or [Summarizer](https://github.com/marciogualtieri/Summarizer) (Java).
+
+* Web TDD: [Slightly](https://github.com/marciogualtieri/Slightly) (Java).
 
 ## Data Engineering
 
