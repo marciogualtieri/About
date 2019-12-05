@@ -16,7 +16,7 @@ Follow samples of my work that represent some of my coding skills:
 
 * Java: [Company Service REST API](https://github.com/marciogualtieri/CompanyService) (Java/Spring Boot), [Slightly](https://github.com/marciogualtieri/Slightly) (Web Template Engine), [Paintshop](https://github.com/marciogualtieri/Java-PaintShop) (Algorithm Design and Analysis), [Summarizer](https://github.com/marciogualtieri/Summarizer) (BDD).
 
-* Clojure: [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
+* Clojure: [Scramble API/UI](https://github.com/marciogualtieri/scramble), [Clojure-Paintshop](https://github.com/marciogualtieri/Clojure-PaintShop).
 
 * Android: [Reader](https://github.com/marciogualtieri/reader) (Scala).
 
