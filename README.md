@@ -50,7 +50,7 @@ Follow samples of my work that represent some of my coding skills:
 
 Follow samples of my work that represent some of my data science skills:
 
-* Time-series Analysis: [https://github.com/marciogualtieri/time-series-analysis](Time-series Analysis of IoT Events). You will find the rendered Jupyter notebook (Pandas, StatsModels, Matplotlib) [here](https://marciogualtieri.github.io/time-series-analysis/Data%20Engineering%20-%20Missing%20Events.html).
+* Time-series Analysis: [Time-series Analysis of IoT Events](https://github.com/marciogualtieri/time-series-analysis). You will find the rendered Jupyter notebook (Pandas, StatsModels, Matplotlib) [here](https://marciogualtieri.github.io/time-series-analysis/Data%20Engineering%20-%20Missing%20Events.html).
 
 * Spark/Scala, Text-Mining & Exploratory Data Analysis: [SwiftRKey: A Keyboard Typing Prediction App (Databricks Notebook)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6584459985790753/2009039178873245/7247885662141524/latest.html).
 
