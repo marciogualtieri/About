@@ -4,7 +4,7 @@ Welcome to [my GitHub](https://github.com/marciogualtieri?tab=repositories). In 
 
 ## Programming
 
-I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles, which include [TDD](https://en.wikipedia.org/wiki/Test-driven_development) (I write tests first) and [S.O.L.I.D. principles](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)). I also follow [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) ([JBehave](http://jbehave.org/) for Java and [ScalaTest's FunSpec](http://www.scalatest.org/user_guide/tests_as_specifications) for Scala).
+I'm a [clean coder](http://cleancoders.com), thus I follow clean code principles, which include [TDD](https://en.wikipedia.org/wiki/Test-driven_development) (I write tests first) and [S.O.L.I.D. principles](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)). I also follow [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) ([Behave](https://behave.readthedocs.io/en/latest/) for Python [JBehave](http://jbehave.org/) for Java and [ScalaTest's FunSpec](http://www.scalatest.org/user_guide/tests_as_specifications) for Scala).
 
 Follow samples of my work that represent some of my coding skills:
 
