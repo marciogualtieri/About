@@ -74,6 +74,10 @@ Follow samples of my work that represent some of my data science skills:
 
 * Basic Regression Analysis: [Motor Trend Analysis](https://marciogualtieri.github.io/DataScience/coursera/regression/motortrend.html). You will also find my R notebooks on [GitHub](https://github.com/marciogualtieri/DataScience/tree/master/coursera/regression).
 
+## Technical Articles
+
+* [Back-end Design Using AWS Serverless](https://github.com/marciogualtieri/About/blob/master/Design%20Challenge%20-%20Marcio%20Gualtieri.pdf). That'a case study of using AWS Serverless services to implement a back-end. It uses API Gateway, AWS Lambda, SQS, RDS, Aurora, AWS Batch, and IoTCore.
+
 ## Certified Training
 
 I have completed a number of courses from [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/) on the subjects of machine learning, statistics and data analytics (using tools such as Spark, R and Python). You will find a list of my certified courses on my [LinkedIn profile](https://www.linkedin.com/in/marcio-gualtieri-999773b).
