@@ -76,7 +76,7 @@ Follow samples of my work that represent some of my data science skills:
 
 ## Technical Articles
 
-* [Back-end Design Using AWS Serverless](https://github.com/marciogualtieri/About/blob/master/Design%20Challenge%20-%20Marcio%20Gualtieri.pdf). That'a case study of using AWS Serverless services to implement a back-end. It uses API Gateway, AWS Lambda, SQS, RDS, Aurora, AWS Batch, SES, and IoTCore.
+* [Back-end Design Using AWS Serverless](https://github.com/marciogualtieri/About/blob/master/Design%20Challenge%20-%20Marcio%20Gualtieri.pdf). That'a case study of using AWS Serverless services to implement a back-end. It uses Cognito, API Gateway, AWS Lambda, SQS, RDS, Aurora, AWS Batch, CloudWatch, SES, and IoTCore.
 
 ## Certified Training
 
