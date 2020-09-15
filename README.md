@@ -22,7 +22,7 @@ Follow samples of my work that represent some of my coding skills:
 
 * Ruby on Rails: [Recipe Finder](https://github.com/marciogualtieri/recipefinder). You may [demo the app](http://recipefinder90.herokuapp.com), which has been deployed to [Heroku](www.heroku.com).
 
-* Python: [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder) (Django REST Framework), [Tetris](https://github.com/marciogualtieri/tetris) (Text-Mode) and [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing/Python) (Object-Oriented Design), [Poor Man's Twitter](https://github.com/marciogualtieri/PoorManSTwitter) (Python Django REST Framework), [Magic Squares Generator](https://github.com/marciogualtieri/MagicSquares), [Dropbox Web Client](https://github.com/marciogualtieri/DropBoxWebClient) (Django Templates/Dropbox API), [Student Quiz OOD/BDD](https://github.com/marciogualtieri/Katas/tree/master/StudentQuiz) (Python/Behave).
+* Python: [Risk Model Builder API](https://github.com/marciogualtieri/risk_model_builder) (Django REST Framework), [Tetris](https://github.com/marciogualtieri/tetris) (Text-Mode) and [Supermarket Pricing](https://github.com/marciogualtieri/Katas/tree/master/SupermarketPricing/Python) (Object-Oriented Design), [Poor Man's Twitter](https://github.com/marciogualtieri/PoorManSTwitter) (Python Django REST Framework), [Magic Squares Generator](https://github.com/marciogualtieri/MagicSquares), [Dropbox Web Client](https://github.com/marciogualtieri/DropBoxWebClient) (Django Templates/Dropbox API), [Student Quiz OOD/BDD](https://github.com/marciogualtieri/Katas/tree/master/StudentQuiz) (Python/Behave), [Simple LEdger with Pandas/Numpy](https://github.com/marciogualtieri/simple-transaction-ledger).
 
 * Javascript: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder) (Vue.js/Webpack), [Poor Man's Twitter UI](https://github.com/marciogualtieri/PoorManSTwitter) (Vue.Js/Webpack/Bootstrap).
 
@@ -51,6 +51,8 @@ Follow samples of my work that represent some of my coding skills:
 Follow samples of my work that represent some of my data science skills:
 
 * Time-series Analysis: [Time-series Analysis of IoT Events](https://github.com/marciogualtieri/time-series-analysis). You will find the rendered Jupyter notebook (Pandas, StatsModels, Matplotlib) [here](https://marciogualtieri.github.io/time-series-analysis/Data%20Engineering%20-%20Missing%20Events.html).
+
+* Basic Machine Learning with Sci-kit Learn: [Machine Learning + REST API](https://github.com/marciogualtieri/machine-learning-rest-api-example).
 
 * Spark/Scala, Text-Mining & Exploratory Data Analysis: [SwiftRKey: A Keyboard Typing Prediction App (Databricks Notebook)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6584459985790753/2009039178873245/7247885662141524/latest.html).
 
