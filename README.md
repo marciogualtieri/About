@@ -40,6 +40,8 @@ Follow samples of my work that represent some of my coding skills:
 
 ## Data Engineering
 
+* [Universities Data Pipeline](https://github.com/marciogualtieri/universities-pipeline): An example of using [Apache Airflow](https://airflow.apache.org/) to create a data pipeline that persists data from input files into a database.
+
 * [Data Ingestion](https://github.com/marciogualtieri/DataEngineering/tree/master/DataIngestion): IoT Simulator that generates JSON data and publishes it to a Kafka topic.
 
 * [Data Transformation](https://github.com/marciogualtieri/DataEngineering/tree/master/DataTransformation): Spark Streaming job that consumes data from a Kafka topic and persists it to HBase.
