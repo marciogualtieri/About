@@ -52,7 +52,7 @@ Follow samples of my work that represent some of my coding skills:
 
 Follow samples of my work that represent some of my data science skills:
 
-* Joke Generator/Evaluator using LLM's (GPT2): [Generator Model](https://github.com/marciogualtieri/ai-comedy-club/blob/feat-add-funnybot/bots/funnybot/transformers/notebooks/Joke%20Evaluator.ipynb), [Evaluator Model](https://github.com/marciogualtieri/ai-comedy-club/blob/feat-add-funnybot/bots/funnybot/transformers/notebooks/Joke%20Generator.ipynb).
+* Joke Generator/Evaluator using LLM's (GPT2): [Evaluator Model](https://github.com/marciogualtieri/ai-comedy-club/blob/feat-add-funnybot/bots/funnybot/transformers/notebooks/Joke%20Evaluator.ipynb), [Generator Model](https://github.com/marciogualtieri/ai-comedy-club/blob/feat-add-funnybot/bots/funnybot/transformers/notebooks/Joke%20Generator.ipynb).
 
 * Time-series Analysis: [Time-series Analysis of IoT Events](https://github.com/marciogualtieri/time-series-analysis). You will find the rendered Jupyter notebook (Pandas, StatsModels, Matplotlib) [here](https://marciogualtieri.github.io/time-series-analysis/Data%20Engineering%20-%20Missing%20Events.html).
 
