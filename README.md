@@ -26,7 +26,7 @@ Follow samples of my work that represent some of my coding skills:
 
 * Javascript: [Risk Model Builder UI](https://github.com/marciogualtieri/risk_model_builder) (Vue.js/Webpack), [Poor Man's Twitter UI](https://github.com/marciogualtieri/PoorManSTwitter) (Vue.Js/Webpack/Bootstrap).
 
-* Go: [Blockchain](https://github.com/marciogualtieri/blockchain) (Zalliqa's Multi-signature consensus algorithm implementation), [Payments REST API](https://github.com/marciogualtieri/paymentsapi) (Golang/Gin/GORM).
+* Go: [Blockchain](https://github.com/marciogualtieri/blockchain) (Zilliqa's Multi-signature consensus algorithm implementation), [Payments REST API](https://github.com/marciogualtieri/paymentsapi) (Golang/Gin/GORM).
 
 * Practice Sessions: [Katas](https://github.com/marciogualtieri/Katas). A great tecnique to sharpen TDD skills (doesn't hurt that they are fun to do too).
 
